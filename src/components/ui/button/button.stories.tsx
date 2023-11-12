@@ -67,12 +67,3 @@ export const AsLink: Story = {
     variant: 'primary',
   },
 }
-
-// export const ReactLink: Story = {
-//   args: {
-//     as: Link,
-//     children: 'Link that looks like a button',
-//     href: 'https://google.com',
-//     variant: 'primary',
-//   },
-// }
